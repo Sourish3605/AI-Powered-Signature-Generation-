@@ -1,7 +1,6 @@
 # AI-Powered-Signature-Generation-
 AI-Powered Signature Generation and Validation System
 link:
-https://secure-signature-certify--2303a51l86.replit.app
 Prompts:
 “Design a modern UI for an AI signature generator with canvas preview and download option.”
 “Create a frontend form to input name, style, color, and stroke thickness for signatures.”
